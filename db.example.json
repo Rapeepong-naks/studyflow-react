@@ -1,0 +1,26 @@
+{
+  "courses": [
+    { "id": "c1", "name": "Frontend", "color": "#5b5bd6" },
+    { "id": "c2", "name": "Algorithms", "color": "#148a7b" }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "courseId": "c1",
+      "title": "ทบทวน JSX",
+      "description": "อ่านเรื่อง component และ props",
+      "dueDate": null,
+      "priority": "medium",
+      "done": false
+    },
+    {
+      "id": "t2",
+      "courseId": "c2",
+      "title": "ฝึกเขียนฟังก์ชัน",
+      "description": "",
+      "dueDate": null,
+      "priority": "low",
+      "done": true
+    }
+  ]
+}
