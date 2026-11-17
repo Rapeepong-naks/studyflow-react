@@ -2,6 +2,8 @@
 
 StudyFlow is a React and Vite project for a personal study planner. The app is at the starter stage; planned features include courses, tasks, filters, a dashboard, and a local REST API.
 
+See [PRODUCT_SPEC.md](PRODUCT_SPEC.md) for the app requirements, routes, data model, and acceptance checks.
+
 ## Run locally
 
 Install Node.js and npm, then run:
